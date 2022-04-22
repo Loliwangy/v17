@@ -428,10 +428,10 @@ sendEphemeral: false,
                 "title": `${ucapanWaktu}`,
                 "body": `${faketroli}`,
                 "mediaType": "10",
-                "mediaUrl": `https://youtube.com/channel/UCB157jomCne961WzYHpG4gg`,
-                "thumbnailUrl": "https://youtube.com/channel/UCB157jomCne961WzYHpG4gg",
+                "mediaUrl": `https://youtu.be/UIp6_0kct_U`,
+                "thumbnailUrl": "https://youtu.be/UIp6_0kct_U",
                 "thumbnail": fakeimg,
-                "sourceUrl": `https://youtube.com/channel/UCB157jomCne961WzYHpG4gg`,
+                "sourceUrl": `https://youtu.be/UIp6_0kct_U`,
 },mentionedJid:[sender]}, quoted : mek})
 };
         const sendMess = (hehe, teks) => {
